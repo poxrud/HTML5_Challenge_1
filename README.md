@@ -15,5 +15,4 @@ Image files can be loaded and saved.
 Notes
 --------
 Unfortunately I had to use a nasty hack to get the file saving method to work.
-A much better approach would be to use the new FileWriter API, unfortunately it is still not supported
-in most browser. 
+A much better approach would be to use the new FileWriter API, however it is still not supported in most browser. 
