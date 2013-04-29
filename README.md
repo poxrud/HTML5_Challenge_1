@@ -6,6 +6,8 @@ HTML5 Challenge 1
 Here is my attempt at the [HTML5 Challenge 1](http://outofcomfortzone.net/2013/04/18/html5-challenge-1-canvas-file-api/) as described by Frédéric Harper.  
 Tested to work with Chrome and Firefox. 
 
+This version does not use any external libraries (such as jQuery).
+
 Usage
 -------
 Click on the canvas to draw straight lines.   
